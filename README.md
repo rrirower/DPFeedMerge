@@ -6,7 +6,7 @@ NOTE: This software is not endorsed by or affiliated with Roku in any way.
 # Prequisites
 * 64 bit Windows: 10
 * .Net Framework 4.8
-* xx MB of Free Disk Space.
+* 11 MB of Free Disk Space.
 
 # Installation
 Please download the setup file from the latest release.
