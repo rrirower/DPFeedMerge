@@ -29,7 +29,7 @@ Software support is available by submitting an "issue".  Please attach any files
 # License
 Please read the license before using the software.
 
-[![Generic badge](https://img.shields.io/badge/License-EULA-blue.svg)](https://github.com/rrirower/DPFeedMerge/blob/master/LICENSE.md)
+[![Generic badge](https://img.shields.io/badge/License-EULA-blue.svg)](https://github.com/rrirower/DPFeedMerge/blob/main/LICENSE.md)
 
 # Author
 Michael Harnad
